@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_color_light">#D1C4E9</color>
+    <color name="primary_color">#673AB7</color>
+    <color name="primary_color_dark">#512DA8</color>
+    <color name="accent_color">#FFC107</color>
+    <color name="background_color">#23143F</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="underWeight">#00BCD4</color>
+    <color name="normalWeight">#4CAF50</color>
+    <color name="overWeight">#CDDC39</color>
+    <color name="obesity">#FF9800</color>
+    <color name="extremeObesity">#F44336</color>
+</resources>
